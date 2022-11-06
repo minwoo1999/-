@@ -9,4 +9,8 @@ version 및 structure
 -mybatis
 -mvc
 
+회의실 예약 이미지
+
+![image](https://user-images.githubusercontent.com/79193811/200159743-a553173f-fe0f-4400-8da1-8d3593afba01.png)
+
 
