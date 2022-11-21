@@ -6,9 +6,9 @@
 * thyleaf
 
 ### version 및 structure
--jdk 11
--mybatis
--mvc
+* jdk 11
+* mybatis
+* mvc
 
 회의실 예약 이미지
 
